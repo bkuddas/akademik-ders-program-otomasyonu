@@ -1,0 +1,1 @@
+python -m PyInstaller --noconsole --onefile --collect-all ortools app.py

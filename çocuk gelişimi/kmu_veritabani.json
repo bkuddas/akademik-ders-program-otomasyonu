@@ -1,0 +1,1465 @@
+{
+    "bolum_adi": "ÇOCUK GELİŞİMİ BÖLÜMÜ",
+    "ogretim_elemanlari": [
+        {
+            "ad": "DOÇ. DR. Alper Yusuf KÖROĞLU",
+            "musaitlik": {
+                "Pazartesi_08:30-09:15": true,
+                "Pazartesi_09:30-10:15": true,
+                "Pazartesi_10:30-11:15": true,
+                "Pazartesi_11:30-12:15": true,
+                "Pazartesi_13:00-13:45": true,
+                "Pazartesi_14:00-14:45": true,
+                "Pazartesi_15:00-15:45": true,
+                "Pazartesi_16:00-16:45": true,
+                "Salı_08:30-09:15": true,
+                "Salı_09:30-10:15": true,
+                "Salı_10:30-11:15": true,
+                "Salı_11:30-12:15": true,
+                "Salı_13:00-13:45": true,
+                "Salı_14:00-14:45": true,
+                "Salı_15:00-15:45": true,
+                "Salı_16:00-16:45": true,
+                "Çarşamba_08:30-09:15": true,
+                "Çarşamba_09:30-10:15": true,
+                "Çarşamba_10:30-11:15": true,
+                "Çarşamba_11:30-12:15": true,
+                "Çarşamba_13:00-13:45": true,
+                "Çarşamba_14:00-14:45": true,
+                "Çarşamba_15:00-15:45": true,
+                "Çarşamba_16:00-16:45": true,
+                "Perşembe_08:30-09:15": true,
+                "Perşembe_09:30-10:15": true,
+                "Perşembe_10:30-11:15": true,
+                "Perşembe_11:30-12:15": true,
+                "Perşembe_13:00-13:45": true,
+                "Perşembe_14:00-14:45": true,
+                "Perşembe_15:00-15:45": true,
+                "Perşembe_16:00-16:45": true,
+                "Cuma_08:30-09:15": true,
+                "Cuma_09:30-10:15": true,
+                "Cuma_10:30-11:15": true,
+                "Cuma_11:30-12:15": true,
+                "Cuma_13:00-13:45": true,
+                "Cuma_14:00-14:45": true,
+                "Cuma_15:00-15:45": true,
+                "Cuma_16:00-16:45": true
+            }
+        },
+        {
+            "ad": "DOÇ. DR. Özlem YILMAZ DEMİREL",
+            "musaitlik": {
+                "Pazartesi_08:30-09:15": true,
+                "Pazartesi_09:30-10:15": true,
+                "Pazartesi_10:30-11:15": true,
+                "Pazartesi_11:30-12:15": true,
+                "Pazartesi_13:00-13:45": true,
+                "Pazartesi_14:00-14:45": true,
+                "Pazartesi_15:00-15:45": true,
+                "Pazartesi_16:00-16:45": true,
+                "Salı_08:30-09:15": true,
+                "Salı_09:30-10:15": true,
+                "Salı_10:30-11:15": true,
+                "Salı_11:30-12:15": true,
+                "Salı_13:00-13:45": true,
+                "Salı_14:00-14:45": true,
+                "Salı_15:00-15:45": true,
+                "Salı_16:00-16:45": true,
+                "Çarşamba_08:30-09:15": true,
+                "Çarşamba_09:30-10:15": true,
+                "Çarşamba_10:30-11:15": true,
+                "Çarşamba_11:30-12:15": true,
+                "Çarşamba_13:00-13:45": true,
+                "Çarşamba_14:00-14:45": true,
+                "Çarşamba_15:00-15:45": true,
+                "Çarşamba_16:00-16:45": true,
+                "Perşembe_08:30-09:15": true,
+                "Perşembe_09:30-10:15": true,
+                "Perşembe_10:30-11:15": true,
+                "Perşembe_11:30-12:15": true,
+                "Perşembe_13:00-13:45": true,
+                "Perşembe_14:00-14:45": true,
+                "Perşembe_15:00-15:45": true,
+                "Perşembe_16:00-16:45": true,
+                "Cuma_08:30-09:15": true,
+                "Cuma_09:30-10:15": true,
+                "Cuma_10:30-11:15": true,
+                "Cuma_11:30-12:15": true,
+                "Cuma_13:00-13:45": true,
+                "Cuma_14:00-14:45": true,
+                "Cuma_15:00-15:45": true,
+                "Cuma_16:00-16:45": true
+            }
+        },
+        {
+            "ad": "DOÇ. DR. Esma ÖZMAYA",
+            "musaitlik": {
+                "Pazartesi_08:30-09:15": true,
+                "Pazartesi_09:30-10:15": true,
+                "Pazartesi_10:30-11:15": true,
+                "Pazartesi_11:30-12:15": true,
+                "Pazartesi_13:00-13:45": true,
+                "Pazartesi_14:00-14:45": true,
+                "Pazartesi_15:00-15:45": true,
+                "Pazartesi_16:00-16:45": true,
+                "Salı_08:30-09:15": true,
+                "Salı_09:30-10:15": true,
+                "Salı_10:30-11:15": true,
+                "Salı_11:30-12:15": true,
+                "Salı_13:00-13:45": true,
+                "Salı_14:00-14:45": true,
+                "Salı_15:00-15:45": true,
+                "Salı_16:00-16:45": true,
+                "Çarşamba_08:30-09:15": true,
+                "Çarşamba_09:30-10:15": true,
+                "Çarşamba_10:30-11:15": true,
+                "Çarşamba_11:30-12:15": true,
+                "Çarşamba_13:00-13:45": true,
+                "Çarşamba_14:00-14:45": true,
+                "Çarşamba_15:00-15:45": true,
+                "Çarşamba_16:00-16:45": true,
+                "Perşembe_08:30-09:15": true,
+                "Perşembe_09:30-10:15": true,
+                "Perşembe_10:30-11:15": true,
+                "Perşembe_11:30-12:15": true,
+                "Perşembe_13:00-13:45": true,
+                "Perşembe_14:00-14:45": true,
+                "Perşembe_15:00-15:45": true,
+                "Perşembe_16:00-16:45": true,
+                "Cuma_08:30-09:15": true,
+                "Cuma_09:30-10:15": true,
+                "Cuma_10:30-11:15": true,
+                "Cuma_11:30-12:15": true,
+                "Cuma_13:00-13:45": true,
+                "Cuma_14:00-14:45": true,
+                "Cuma_15:00-15:45": true,
+                "Cuma_16:00-16:45": true
+            }
+        }
+    ],
+    "siniflar": [
+        {
+            "ad": "Uygulama Sınıfı",
+            "tip": "Genel Laboratuvar",
+            "musaitlik": {
+                "Pazartesi_08:30-09:15": true,
+                "Pazartesi_09:30-10:15": true,
+                "Pazartesi_10:30-11:15": true,
+                "Pazartesi_11:30-12:15": true,
+                "Pazartesi_13:00-13:45": true,
+                "Pazartesi_14:00-14:45": true,
+                "Pazartesi_15:00-15:45": true,
+                "Pazartesi_16:00-16:45": true,
+                "Salı_08:30-09:15": true,
+                "Salı_09:30-10:15": true,
+                "Salı_10:30-11:15": true,
+                "Salı_11:30-12:15": true,
+                "Salı_13:00-13:45": true,
+                "Salı_14:00-14:45": true,
+                "Salı_15:00-15:45": true,
+                "Salı_16:00-16:45": true,
+                "Çarşamba_08:30-09:15": true,
+                "Çarşamba_09:30-10:15": true,
+                "Çarşamba_10:30-11:15": true,
+                "Çarşamba_11:30-12:15": true,
+                "Çarşamba_13:00-13:45": true,
+                "Çarşamba_14:00-14:45": true,
+                "Çarşamba_15:00-15:45": true,
+                "Çarşamba_16:00-16:45": true,
+                "Perşembe_08:30-09:15": true,
+                "Perşembe_09:30-10:15": true,
+                "Perşembe_10:30-11:15": true,
+                "Perşembe_11:30-12:15": true,
+                "Perşembe_13:00-13:45": true,
+                "Perşembe_14:00-14:45": true,
+                "Perşembe_15:00-15:45": true,
+                "Perşembe_16:00-16:45": true,
+                "Cuma_08:30-09:15": true,
+                "Cuma_09:30-10:15": true,
+                "Cuma_10:30-11:15": true,
+                "Cuma_11:30-12:15": true,
+                "Cuma_13:00-13:45": true,
+                "Cuma_14:00-14:45": true,
+                "Cuma_15:00-15:45": true,
+                "Cuma_16:00-16:45": true
+            }
+        }
+    ],
+    "dersler": [
+        {
+            "id": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "TÜRK DİLİ I",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "YABANCI DİL I (İNGİLİZCE)",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ANATOMİ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "TIBBİ BİYOLOJİ VE GENETİK",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ÇOCUK GELİŞİMİNE GİRİŞ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "PSİKOLOJİYE GİRİŞ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ANNE-ÇOCUK BESLENMESİ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 3,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "TEMEL İLKYARDIM",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "DİL VE KONUŞMA BOZUKLUKLARI",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "MESLEKİ MEVZUAT VE YÖNETİM",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ÇOCUK VE OYUN",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "TÜRK DİLİ II",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "YABANCI DİL II (İNGİLİZCE)",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "FİZYOLOJİ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ÖZEL EĞİTİME GİRİŞ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "GELİŞİM KURAMLARI",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ÇOCUK RUH SAĞLIĞI",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 3,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "BİLGİ VE İLETİŞİM TEKNOLOJİLERİ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "YARATICI DRAMA",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "OTİZM SPEKTRUM BOZUKLUĞU",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ÇOCUKLAR İÇİN FELSEFE",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "HASTANEDE YATAN ÇOCUKLAR",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ÇOCUK NÖROLOJİSİ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 3,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "BİLİŞSEL-DİL GELİŞİM VE DESTEKLENMESİ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 3,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "AİLE YAŞAM DÖNGÜSÜ VE AİLE İÇİ İLİŞKİLER",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "KAYNAŞTIRMA EĞİTİMİ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "AİLE EĞİTİMİ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "RİSK ALTINDAKİ ÇOCUKLAR VE EĞİTİMLERİ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "GÖRME ENGELİ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ÜSTÜN YETENEK",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "TOPLUMA HİZMET UYGULAMALARI",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "FİZİKSEL-MOTOR GELİŞİM VE DESTEKLENMESİ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 3,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ÇOCUK SAĞLIĞI VE HASTALIKLARI",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 3,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ÇOCUKLA İLETİŞİM BECERİLERİ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "BİREYSELLEŞTİRİLMİŞ EĞİTİM PROGRAMLARI",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ERKEN ÇOCUKLUK EĞİTİM PROGRAMLARI",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "EĞİTİME GİRİŞ (FORMASYON)",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 3,
+            "sinif_yil": "Seçmeli/Karma",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "EĞİTİM PSİKOLOJİSİ (FORMASYON)",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 3,
+            "sinif_yil": "Seçmeli/Karma",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "İŞİTME ENGELİ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "DUYU GELİŞİMİ VE DESTEKLENMESİ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ÇOCUK VE RESİM",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ÖĞRENME GÜÇLÜKLERİ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "SOSYAL-DUYGUSAL GELİŞİM VE DESTEKLENMESİ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "GELİŞİMSEL TANI VE DEĞERLENDİRME",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 3,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "KRİZE MÜDAHALE VE VAKA ÇALIŞMALARI",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ERKEN ÇOCUKLUK DÖNEMİNDE GELİŞİMSEL DESTEK PROGRAMLARI",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 3,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ERKEN ÇOCUKLUK DÖNEMİNDE ALAN ÇALIŞMALARI",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 7,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": true,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ÖĞRETİM İLKE VE YÖNTEMLERİ (FORMASYON)",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 3,
+            "sinif_yil": "Seçmeli/Karma",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ÖZEL ÖĞRETİM YÖNTEMLERİ (FORMASYON)",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 3,
+            "sinif_yil": "Seçmeli/Karma",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ÇOCUĞU TANIMADA TEST DIŞI TEKNİKLER",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "FİZİKSEL ENGEL",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "BİLİMSEL ARAŞTIRMA YÖNTEMLERİ VE YAYIN ETİĞİ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "FARKLI KÜLTÜRLERDE ÇOCUK",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "AHLAK-DEĞER GELİŞİMİ VE DESTEKLENMESİ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ERKEN MÜDAHALE",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 3,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "OKUL VE ERGENLİK DÖNEMİNDE GELİŞİMSEL DESTEK PROGRAMLARI",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 3,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "BİYOİSTATİSTİK",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ÖZEL EĞİTİMDE ALAN ÇALIŞMALARI",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 7,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": true,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "SINIF YÖNETİMİ (FORMASYON)",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "Seçmeli/Karma",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "EĞİTİMDE ÖLÇME VE DEĞERLENDİRME (FORMASYON)",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 3,
+            "sinif_yil": "Seçmeli/Karma",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ZİHİNSEL ENGEL",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "DAVRANIŞ PROBLEMLERİ VE YÖNETİMİ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ÇOCUK VE DİJİTAL MEDYA",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ÇOCUK GELİŞİMİNDE GÜNCEL ARAŞTIRMALAR",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ÇOCUKLUK DÖNEMİNDE BAĞIMLILIK",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ÇOCUK HAKLARI VE HUKUKU",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ÇOCUK GELİŞİMİNDE ALAN ÇALIŞMALARI I",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 8,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": true,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "MEZUNİYET PROJESİ I",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "REHBERLİK VE ÖZEL EĞİTİM (FORMASYON)",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 3,
+            "sinif_yil": "Seçmeli/Karma",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ÖĞRETİM TEKNOLOJİLERİ (FORMASYON)",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "Seçmeli/Karma",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ÇOCUK YAŞAM ALANLARI VE ÇEVRE DÜZENLEMESİ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ERKEN OKURYAZARLIK",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ÇOCUK VE SPOR",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ÇOCUK VE MÜZİK",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ÇOCUK İHMALİ VE İSTİSMARI",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ÇOCUK ODAKLI GELİŞİMSEL AİLE DANIŞMANLIĞI",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ÇOCUK GELİŞİMİNDE ALAN ÇALIŞMALARI II",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 8,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": true,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "MEZUNİYET PROJESİ II",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ÖĞRETMENLİK UYGULAMASI (FORMASYON)",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 8,
+            "sinif_yil": "Seçmeli/Karma",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": true,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ÇOCUK EDEBİYATI",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ERKEN ÇOCUKLUK DÖNEMİNDE FEN VE MATEMATİK",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "ÇOCUK VE DOĞA",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "MÜZE VE ÇOCUK",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "istenen_mekan": "Derslik (Genel)",
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        }
+    ]
+}

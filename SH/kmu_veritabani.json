@@ -1,0 +1,3258 @@
+{
+    "bolum_adi": "SOSYAL HİZMET BÖLÜMÜ",
+    "ogretim_elemanlari": [
+        {
+            "ad": "Prof. Dr. Ahmet Burhan ÇAKICI",
+            "musaitlik": {
+                "Pazartesi_08:30-09:15": false,
+                "Pazartesi_09:30-10:15": false,
+                "Pazartesi_10:30-11:15": false,
+                "Pazartesi_11:30-12:15": false,
+                "Pazartesi_13:00-13:45": false,
+                "Pazartesi_14:00-14:45": false,
+                "Pazartesi_15:00-15:45": false,
+                "Pazartesi_16:00-16:45": false,
+                "Salı_08:30-09:15": true,
+                "Salı_09:30-10:15": true,
+                "Salı_10:30-11:15": true,
+                "Salı_11:30-12:15": true,
+                "Salı_13:00-13:45": true,
+                "Salı_14:00-14:45": true,
+                "Salı_15:00-15:45": true,
+                "Salı_16:00-16:45": true,
+                "Çarşamba_08:30-09:15": true,
+                "Çarşamba_09:30-10:15": true,
+                "Çarşamba_10:30-11:15": true,
+                "Çarşamba_11:30-12:15": true,
+                "Çarşamba_13:00-13:45": true,
+                "Çarşamba_14:00-14:45": true,
+                "Çarşamba_15:00-15:45": true,
+                "Çarşamba_16:00-16:45": true,
+                "Perşembe_08:30-09:15": true,
+                "Perşembe_09:30-10:15": true,
+                "Perşembe_10:30-11:15": true,
+                "Perşembe_11:30-12:15": true,
+                "Perşembe_13:00-13:45": true,
+                "Perşembe_14:00-14:45": true,
+                "Perşembe_15:00-15:45": true,
+                "Perşembe_16:00-16:45": true,
+                "Cuma_08:30-09:15": true,
+                "Cuma_09:30-10:15": true,
+                "Cuma_10:30-11:15": true,
+                "Cuma_11:30-12:15": true,
+                "Cuma_13:00-13:45": true,
+                "Cuma_14:00-14:45": true,
+                "Cuma_15:00-15:45": true,
+                "Cuma_16:00-16:45": true
+            }
+        },
+        {
+            "ad": "Doç. Dr. Tahir DAĞCI",
+            "musaitlik": {
+                "Pazartesi_08:30-09:15": false,
+                "Pazartesi_09:30-10:15": false,
+                "Pazartesi_10:30-11:15": false,
+                "Pazartesi_11:30-12:15": false,
+                "Pazartesi_13:00-13:45": true,
+                "Pazartesi_14:00-14:45": true,
+                "Pazartesi_15:00-15:45": true,
+                "Pazartesi_16:00-16:45": true,
+                "Salı_08:30-09:15": true,
+                "Salı_09:30-10:15": true,
+                "Salı_10:30-11:15": true,
+                "Salı_11:30-12:15": true,
+                "Salı_13:00-13:45": true,
+                "Salı_14:00-14:45": true,
+                "Salı_15:00-15:45": true,
+                "Salı_16:00-16:45": true,
+                "Çarşamba_08:30-09:15": true,
+                "Çarşamba_09:30-10:15": true,
+                "Çarşamba_10:30-11:15": true,
+                "Çarşamba_11:30-12:15": true,
+                "Çarşamba_13:00-13:45": true,
+                "Çarşamba_14:00-14:45": true,
+                "Çarşamba_15:00-15:45": true,
+                "Çarşamba_16:00-16:45": true,
+                "Perşembe_08:30-09:15": true,
+                "Perşembe_09:30-10:15": true,
+                "Perşembe_10:30-11:15": true,
+                "Perşembe_11:30-12:15": true,
+                "Perşembe_13:00-13:45": true,
+                "Perşembe_14:00-14:45": true,
+                "Perşembe_15:00-15:45": true,
+                "Perşembe_16:00-16:45": true,
+                "Cuma_08:30-09:15": true,
+                "Cuma_09:30-10:15": true,
+                "Cuma_10:30-11:15": true,
+                "Cuma_11:30-12:15": true,
+                "Cuma_13:00-13:45": true,
+                "Cuma_14:00-14:45": true,
+                "Cuma_15:00-15:45": true,
+                "Cuma_16:00-16:45": true
+            }
+        },
+        {
+            "ad": "Dr. Öğr. Üyesi Necati Buğra KUDDAŞ",
+            "musaitlik": {
+                "Pazartesi_08:30-09:15": false,
+                "Pazartesi_09:30-10:15": false,
+                "Pazartesi_10:30-11:15": true,
+                "Pazartesi_11:30-12:15": true,
+                "Pazartesi_13:00-13:45": true,
+                "Pazartesi_14:00-14:45": true,
+                "Pazartesi_15:00-15:45": true,
+                "Pazartesi_16:00-16:45": true,
+                "Salı_08:30-09:15": true,
+                "Salı_09:30-10:15": true,
+                "Salı_10:30-11:15": true,
+                "Salı_11:30-12:15": true,
+                "Salı_13:00-13:45": true,
+                "Salı_14:00-14:45": true,
+                "Salı_15:00-15:45": true,
+                "Salı_16:00-16:45": true,
+                "Çarşamba_08:30-09:15": false,
+                "Çarşamba_09:30-10:15": false,
+                "Çarşamba_10:30-11:15": true,
+                "Çarşamba_11:30-12:15": true,
+                "Çarşamba_13:00-13:45": true,
+                "Çarşamba_14:00-14:45": true,
+                "Çarşamba_15:00-15:45": true,
+                "Çarşamba_16:00-16:45": true,
+                "Perşembe_08:30-09:15": false,
+                "Perşembe_09:30-10:15": false,
+                "Perşembe_10:30-11:15": true,
+                "Perşembe_11:30-12:15": true,
+                "Perşembe_13:00-13:45": true,
+                "Perşembe_14:00-14:45": true,
+                "Perşembe_15:00-15:45": true,
+                "Perşembe_16:00-16:45": true,
+                "Cuma_08:30-09:15": false,
+                "Cuma_09:30-10:15": false,
+                "Cuma_10:30-11:15": true,
+                "Cuma_11:30-12:15": true,
+                "Cuma_13:00-13:45": true,
+                "Cuma_14:00-14:45": true,
+                "Cuma_15:00-15:45": true,
+                "Cuma_16:00-16:45": true
+            }
+        },
+        {
+            "ad": "Dr. Öğr. Üyesi Fatma Bilge KAHRAMAN",
+            "musaitlik": {
+                "Pazartesi_08:30-09:15": false,
+                "Pazartesi_09:30-10:15": false,
+                "Pazartesi_10:30-11:15": false,
+                "Pazartesi_11:30-12:15": false,
+                "Pazartesi_13:00-13:45": false,
+                "Pazartesi_14:00-14:45": false,
+                "Pazartesi_15:00-15:45": false,
+                "Pazartesi_16:00-16:45": false,
+                "Salı_08:30-09:15": true,
+                "Salı_09:30-10:15": true,
+                "Salı_10:30-11:15": true,
+                "Salı_11:30-12:15": true,
+                "Salı_13:00-13:45": true,
+                "Salı_14:00-14:45": true,
+                "Salı_15:00-15:45": true,
+                "Salı_16:00-16:45": true,
+                "Çarşamba_08:30-09:15": true,
+                "Çarşamba_09:30-10:15": true,
+                "Çarşamba_10:30-11:15": true,
+                "Çarşamba_11:30-12:15": true,
+                "Çarşamba_13:00-13:45": true,
+                "Çarşamba_14:00-14:45": true,
+                "Çarşamba_15:00-15:45": true,
+                "Çarşamba_16:00-16:45": true,
+                "Perşembe_08:30-09:15": true,
+                "Perşembe_09:30-10:15": true,
+                "Perşembe_10:30-11:15": true,
+                "Perşembe_11:30-12:15": true,
+                "Perşembe_13:00-13:45": true,
+                "Perşembe_14:00-14:45": true,
+                "Perşembe_15:00-15:45": true,
+                "Perşembe_16:00-16:45": true,
+                "Cuma_08:30-09:15": false,
+                "Cuma_09:30-10:15": false,
+                "Cuma_10:30-11:15": false,
+                "Cuma_11:30-12:15": false,
+                "Cuma_13:00-13:45": false,
+                "Cuma_14:00-14:45": false,
+                "Cuma_15:00-15:45": false,
+                "Cuma_16:00-16:45": false
+            }
+        },
+        {
+            "ad": "Dr. Öğr. Üyesi Ramazan KOCAKAYA",
+            "musaitlik": {
+                "Pazartesi_08:30-09:15": false,
+                "Pazartesi_09:30-10:15": false,
+                "Pazartesi_10:30-11:15": true,
+                "Pazartesi_11:30-12:15": true,
+                "Pazartesi_13:00-13:45": true,
+                "Pazartesi_14:00-14:45": true,
+                "Pazartesi_15:00-15:45": true,
+                "Pazartesi_16:00-16:45": true,
+                "Salı_08:30-09:15": true,
+                "Salı_09:30-10:15": true,
+                "Salı_10:30-11:15": true,
+                "Salı_11:30-12:15": true,
+                "Salı_13:00-13:45": true,
+                "Salı_14:00-14:45": true,
+                "Salı_15:00-15:45": true,
+                "Salı_16:00-16:45": true,
+                "Çarşamba_08:30-09:15": false,
+                "Çarşamba_09:30-10:15": false,
+                "Çarşamba_10:30-11:15": false,
+                "Çarşamba_11:30-12:15": false,
+                "Çarşamba_13:00-13:45": true,
+                "Çarşamba_14:00-14:45": true,
+                "Çarşamba_15:00-15:45": true,
+                "Çarşamba_16:00-16:45": true,
+                "Perşembe_08:30-09:15": false,
+                "Perşembe_09:30-10:15": false,
+                "Perşembe_10:30-11:15": true,
+                "Perşembe_11:30-12:15": true,
+                "Perşembe_13:00-13:45": true,
+                "Perşembe_14:00-14:45": true,
+                "Perşembe_15:00-15:45": true,
+                "Perşembe_16:00-16:45": true,
+                "Cuma_08:30-09:15": false,
+                "Cuma_09:30-10:15": false,
+                "Cuma_10:30-11:15": false,
+                "Cuma_11:30-12:15": false,
+                "Cuma_13:00-13:45": true,
+                "Cuma_14:00-14:45": true,
+                "Cuma_15:00-15:45": true,
+                "Cuma_16:00-16:45": true
+            }
+        },
+        {
+            "ad": "Dr. Öğr. Üyesi Yasemin ARI KOVANCI",
+            "musaitlik": {
+                "Pazartesi_08:30-09:15": true,
+                "Pazartesi_09:30-10:15": true,
+                "Pazartesi_10:30-11:15": true,
+                "Pazartesi_11:30-12:15": true,
+                "Pazartesi_13:00-13:45": true,
+                "Pazartesi_14:00-14:45": true,
+                "Pazartesi_15:00-15:45": true,
+                "Pazartesi_16:00-16:45": true,
+                "Salı_08:30-09:15": true,
+                "Salı_09:30-10:15": true,
+                "Salı_10:30-11:15": true,
+                "Salı_11:30-12:15": true,
+                "Salı_13:00-13:45": true,
+                "Salı_14:00-14:45": true,
+                "Salı_15:00-15:45": true,
+                "Salı_16:00-16:45": true,
+                "Çarşamba_08:30-09:15": true,
+                "Çarşamba_09:30-10:15": true,
+                "Çarşamba_10:30-11:15": true,
+                "Çarşamba_11:30-12:15": true,
+                "Çarşamba_13:00-13:45": true,
+                "Çarşamba_14:00-14:45": true,
+                "Çarşamba_15:00-15:45": true,
+                "Çarşamba_16:00-16:45": true,
+                "Perşembe_08:30-09:15": true,
+                "Perşembe_09:30-10:15": true,
+                "Perşembe_10:30-11:15": true,
+                "Perşembe_11:30-12:15": true,
+                "Perşembe_13:00-13:45": true,
+                "Perşembe_14:00-14:45": true,
+                "Perşembe_15:00-15:45": true,
+                "Perşembe_16:00-16:45": true,
+                "Cuma_08:30-09:15": true,
+                "Cuma_09:30-10:15": true,
+                "Cuma_10:30-11:15": true,
+                "Cuma_11:30-12:15": true,
+                "Cuma_13:00-13:45": true,
+                "Cuma_14:00-14:45": true,
+                "Cuma_15:00-15:45": true,
+                "Cuma_16:00-16:45": true
+            }
+        },
+        {
+            "ad": "Arş. Gör. Dr. Rabia ERTEN",
+            "musaitlik": {
+                "Pazartesi_08:30-09:15": true,
+                "Pazartesi_09:30-10:15": true,
+                "Pazartesi_10:30-11:15": true,
+                "Pazartesi_11:30-12:15": true,
+                "Pazartesi_13:00-13:45": true,
+                "Pazartesi_14:00-14:45": true,
+                "Pazartesi_15:00-15:45": true,
+                "Pazartesi_16:00-16:45": true,
+                "Salı_08:30-09:15": true,
+                "Salı_09:30-10:15": true,
+                "Salı_10:30-11:15": true,
+                "Salı_11:30-12:15": true,
+                "Salı_13:00-13:45": true,
+                "Salı_14:00-14:45": true,
+                "Salı_15:00-15:45": true,
+                "Salı_16:00-16:45": true,
+                "Çarşamba_08:30-09:15": true,
+                "Çarşamba_09:30-10:15": true,
+                "Çarşamba_10:30-11:15": true,
+                "Çarşamba_11:30-12:15": true,
+                "Çarşamba_13:00-13:45": true,
+                "Çarşamba_14:00-14:45": true,
+                "Çarşamba_15:00-15:45": true,
+                "Çarşamba_16:00-16:45": true,
+                "Perşembe_08:30-09:15": true,
+                "Perşembe_09:30-10:15": true,
+                "Perşembe_10:30-11:15": true,
+                "Perşembe_11:30-12:15": true,
+                "Perşembe_13:00-13:45": true,
+                "Perşembe_14:00-14:45": true,
+                "Perşembe_15:00-15:45": true,
+                "Perşembe_16:00-16:45": true,
+                "Cuma_08:30-09:15": true,
+                "Cuma_09:30-10:15": true,
+                "Cuma_10:30-11:15": true,
+                "Cuma_11:30-12:15": true,
+                "Cuma_13:00-13:45": true,
+                "Cuma_14:00-14:45": true,
+                "Cuma_15:00-15:45": true,
+                "Cuma_16:00-16:45": true
+            }
+        },
+        {
+            "ad": "Atanmadı",
+            "musaitlik": {
+                "Pazartesi_08:30-09:15": true,
+                "Pazartesi_09:30-10:15": true,
+                "Pazartesi_10:30-11:15": true,
+                "Pazartesi_11:30-12:15": true,
+                "Pazartesi_13:00-13:45": true,
+                "Pazartesi_14:00-14:45": true,
+                "Pazartesi_15:00-15:45": true,
+                "Pazartesi_16:00-16:45": true,
+                "Salı_08:30-09:15": true,
+                "Salı_09:30-10:15": true,
+                "Salı_10:30-11:15": true,
+                "Salı_11:30-12:15": true,
+                "Salı_13:00-13:45": true,
+                "Salı_14:00-14:45": true,
+                "Salı_15:00-15:45": true,
+                "Salı_16:00-16:45": true,
+                "Çarşamba_08:30-09:15": true,
+                "Çarşamba_09:30-10:15": true,
+                "Çarşamba_10:30-11:15": true,
+                "Çarşamba_11:30-12:15": true,
+                "Çarşamba_13:00-13:45": true,
+                "Çarşamba_14:00-14:45": true,
+                "Çarşamba_15:00-15:45": true,
+                "Çarşamba_16:00-16:45": true,
+                "Perşembe_08:30-09:15": true,
+                "Perşembe_09:30-10:15": true,
+                "Perşembe_10:30-11:15": true,
+                "Perşembe_11:30-12:15": true,
+                "Perşembe_13:00-13:45": true,
+                "Perşembe_14:00-14:45": true,
+                "Perşembe_15:00-15:45": true,
+                "Perşembe_16:00-16:45": true,
+                "Cuma_08:30-09:15": true,
+                "Cuma_09:30-10:15": true,
+                "Cuma_10:30-11:15": true,
+                "Cuma_11:30-12:15": true,
+                "Cuma_13:00-13:45": true,
+                "Cuma_14:00-14:45": true,
+                "Cuma_15:00-15:45": true,
+                "Cuma_16:00-16:45": true
+            }
+        },
+        {
+            "ad": "Doç. Dr. Erhan ŞENSOY",
+            "musaitlik": {
+                "Pazartesi_08:30-09:15": false,
+                "Pazartesi_09:30-10:15": false,
+                "Pazartesi_10:30-11:15": false,
+                "Pazartesi_11:30-12:15": false,
+                "Pazartesi_13:00-13:45": false,
+                "Pazartesi_14:00-14:45": false,
+                "Pazartesi_15:00-15:45": false,
+                "Pazartesi_16:00-16:45": false,
+                "Salı_08:30-09:15": false,
+                "Salı_09:30-10:15": false,
+                "Salı_10:30-11:15": false,
+                "Salı_11:30-12:15": false,
+                "Salı_13:00-13:45": false,
+                "Salı_14:00-14:45": false,
+                "Salı_15:00-15:45": false,
+                "Salı_16:00-16:45": false,
+                "Çarşamba_08:30-09:15": false,
+                "Çarşamba_09:30-10:15": false,
+                "Çarşamba_10:30-11:15": false,
+                "Çarşamba_11:30-12:15": false,
+                "Çarşamba_13:00-13:45": false,
+                "Çarşamba_14:00-14:45": false,
+                "Çarşamba_15:00-15:45": false,
+                "Çarşamba_16:00-16:45": false,
+                "Perşembe_08:30-09:15": false,
+                "Perşembe_09:30-10:15": true,
+                "Perşembe_10:30-11:15": true,
+                "Perşembe_11:30-12:15": true,
+                "Perşembe_13:00-13:45": false,
+                "Perşembe_14:00-14:45": false,
+                "Perşembe_15:00-15:45": false,
+                "Perşembe_16:00-16:45": false,
+                "Cuma_08:30-09:15": false,
+                "Cuma_09:30-10:15": false,
+                "Cuma_10:30-11:15": false,
+                "Cuma_11:30-12:15": false,
+                "Cuma_13:00-13:45": false,
+                "Cuma_14:00-14:45": false,
+                "Cuma_15:00-15:45": false,
+                "Cuma_16:00-16:45": false
+            }
+        },
+        {
+            "ad": "Dr. Öğr. Ü. Ufuk Serdar AKALIN",
+            "musaitlik": {
+                "Pazartesi_08:30-09:15": false,
+                "Pazartesi_09:30-10:15": false,
+                "Pazartesi_10:30-11:15": false,
+                "Pazartesi_11:30-12:15": false,
+                "Pazartesi_13:00-13:45": false,
+                "Pazartesi_14:00-14:45": false,
+                "Pazartesi_15:00-15:45": false,
+                "Pazartesi_16:00-16:45": false,
+                "Salı_08:30-09:15": false,
+                "Salı_09:30-10:15": false,
+                "Salı_10:30-11:15": false,
+                "Salı_11:30-12:15": false,
+                "Salı_13:00-13:45": false,
+                "Salı_14:00-14:45": false,
+                "Salı_15:00-15:45": false,
+                "Salı_16:00-16:45": false,
+                "Çarşamba_08:30-09:15": false,
+                "Çarşamba_09:30-10:15": false,
+                "Çarşamba_10:30-11:15": false,
+                "Çarşamba_11:30-12:15": false,
+                "Çarşamba_13:00-13:45": false,
+                "Çarşamba_14:00-14:45": false,
+                "Çarşamba_15:00-15:45": false,
+                "Çarşamba_16:00-16:45": false,
+                "Perşembe_08:30-09:15": true,
+                "Perşembe_09:30-10:15": true,
+                "Perşembe_10:30-11:15": false,
+                "Perşembe_11:30-12:15": false,
+                "Perşembe_13:00-13:45": false,
+                "Perşembe_14:00-14:45": false,
+                "Perşembe_15:00-15:45": false,
+                "Perşembe_16:00-16:45": false,
+                "Cuma_08:30-09:15": false,
+                "Cuma_09:30-10:15": false,
+                "Cuma_10:30-11:15": false,
+                "Cuma_11:30-12:15": false,
+                "Cuma_13:00-13:45": false,
+                "Cuma_14:00-14:45": false,
+                "Cuma_15:00-15:45": false,
+                "Cuma_16:00-16:45": false
+            }
+        },
+        {
+            "ad": "Dr. Zehra Tortop KUDDAŞ",
+            "musaitlik": {
+                "Pazartesi_08:30-09:15": false,
+                "Pazartesi_09:30-10:15": false,
+                "Pazartesi_10:30-11:15": false,
+                "Pazartesi_11:30-12:15": false,
+                "Pazartesi_13:00-13:45": true,
+                "Pazartesi_14:00-14:45": true,
+                "Pazartesi_15:00-15:45": true,
+                "Pazartesi_16:00-16:45": true,
+                "Salı_08:30-09:15": false,
+                "Salı_09:30-10:15": false,
+                "Salı_10:30-11:15": false,
+                "Salı_11:30-12:15": false,
+                "Salı_13:00-13:45": true,
+                "Salı_14:00-14:45": true,
+                "Salı_15:00-15:45": true,
+                "Salı_16:00-16:45": true,
+                "Çarşamba_08:30-09:15": false,
+                "Çarşamba_09:30-10:15": false,
+                "Çarşamba_10:30-11:15": false,
+                "Çarşamba_11:30-12:15": false,
+                "Çarşamba_13:00-13:45": true,
+                "Çarşamba_14:00-14:45": true,
+                "Çarşamba_15:00-15:45": true,
+                "Çarşamba_16:00-16:45": true,
+                "Perşembe_08:30-09:15": false,
+                "Perşembe_09:30-10:15": false,
+                "Perşembe_10:30-11:15": false,
+                "Perşembe_11:30-12:15": false,
+                "Perşembe_13:00-13:45": true,
+                "Perşembe_14:00-14:45": true,
+                "Perşembe_15:00-15:45": true,
+                "Perşembe_16:00-16:45": true,
+                "Cuma_08:30-09:15": false,
+                "Cuma_09:30-10:15": false,
+                "Cuma_10:30-11:15": false,
+                "Cuma_11:30-12:15": false,
+                "Cuma_13:00-13:45": true,
+                "Cuma_14:00-14:45": true,
+                "Cuma_15:00-15:45": true,
+                "Cuma_16:00-16:45": true
+            }
+        }
+    ],
+    "siniflar": [
+        {
+            "ad": "D302",
+            "tip": "Derslik",
+            "musaitlik": {
+                "Pazartesi_08:30-09:15": true,
+                "Pazartesi_09:30-10:15": true,
+                "Pazartesi_10:30-11:15": true,
+                "Pazartesi_11:30-12:15": true,
+                "Pazartesi_13:00-13:45": true,
+                "Pazartesi_14:00-14:45": true,
+                "Pazartesi_15:00-15:45": true,
+                "Pazartesi_16:00-16:45": true,
+                "Salı_08:30-09:15": true,
+                "Salı_09:30-10:15": true,
+                "Salı_10:30-11:15": true,
+                "Salı_11:30-12:15": true,
+                "Salı_13:00-13:45": true,
+                "Salı_14:00-14:45": true,
+                "Salı_15:00-15:45": true,
+                "Salı_16:00-16:45": true,
+                "Çarşamba_08:30-09:15": true,
+                "Çarşamba_09:30-10:15": true,
+                "Çarşamba_10:30-11:15": true,
+                "Çarşamba_11:30-12:15": true,
+                "Çarşamba_13:00-13:45": true,
+                "Çarşamba_14:00-14:45": true,
+                "Çarşamba_15:00-15:45": true,
+                "Çarşamba_16:00-16:45": true,
+                "Perşembe_08:30-09:15": true,
+                "Perşembe_09:30-10:15": true,
+                "Perşembe_10:30-11:15": true,
+                "Perşembe_11:30-12:15": true,
+                "Perşembe_13:00-13:45": true,
+                "Perşembe_14:00-14:45": true,
+                "Perşembe_15:00-15:45": true,
+                "Perşembe_16:00-16:45": true,
+                "Cuma_08:30-09:15": true,
+                "Cuma_09:30-10:15": true,
+                "Cuma_10:30-11:15": true,
+                "Cuma_11:30-12:15": true,
+                "Cuma_13:00-13:45": true,
+                "Cuma_14:00-14:45": true,
+                "Cuma_15:00-15:45": true,
+                "Cuma_16:00-16:45": true
+            }
+        },
+        {
+            "ad": "Toplantı Salonu",
+            "tip": "Derslik",
+            "musaitlik": {
+                "Pazartesi_08:30-09:15": true,
+                "Pazartesi_09:30-10:15": true,
+                "Pazartesi_10:30-11:15": true,
+                "Pazartesi_11:30-12:15": true,
+                "Pazartesi_13:00-13:45": false,
+                "Pazartesi_14:00-14:45": false,
+                "Pazartesi_15:00-15:45": false,
+                "Pazartesi_16:00-16:45": false,
+                "Salı_08:30-09:15": false,
+                "Salı_09:30-10:15": false,
+                "Salı_10:30-11:15": false,
+                "Salı_11:30-12:15": false,
+                "Salı_13:00-13:45": true,
+                "Salı_14:00-14:45": true,
+                "Salı_15:00-15:45": true,
+                "Salı_16:00-16:45": true,
+                "Çarşamba_08:30-09:15": true,
+                "Çarşamba_09:30-10:15": true,
+                "Çarşamba_10:30-11:15": true,
+                "Çarşamba_11:30-12:15": true,
+                "Çarşamba_13:00-13:45": false,
+                "Çarşamba_14:00-14:45": false,
+                "Çarşamba_15:00-15:45": false,
+                "Çarşamba_16:00-16:45": false,
+                "Perşembe_08:30-09:15": false,
+                "Perşembe_09:30-10:15": false,
+                "Perşembe_10:30-11:15": false,
+                "Perşembe_11:30-12:15": false,
+                "Perşembe_13:00-13:45": true,
+                "Perşembe_14:00-14:45": true,
+                "Perşembe_15:00-15:45": true,
+                "Perşembe_16:00-16:45": true,
+                "Cuma_08:30-09:15": true,
+                "Cuma_09:30-10:15": true,
+                "Cuma_10:30-11:15": true,
+                "Cuma_11:30-12:15": true,
+                "Cuma_13:00-13:45": false,
+                "Cuma_14:00-14:45": false,
+                "Cuma_15:00-15:45": false,
+                "Cuma_16:00-16:45": false
+            }
+        },
+        {
+            "ad": "Edebiyat Fakültesi",
+            "tip": "Derslik",
+            "musaitlik": {
+                "Pazartesi_08:30-09:15": false,
+                "Pazartesi_09:30-10:15": false,
+                "Pazartesi_10:30-11:15": false,
+                "Pazartesi_11:30-12:15": false,
+                "Pazartesi_13:00-13:45": false,
+                "Pazartesi_14:00-14:45": false,
+                "Pazartesi_15:00-15:45": false,
+                "Pazartesi_16:00-16:45": false,
+                "Salı_08:30-09:15": false,
+                "Salı_09:30-10:15": false,
+                "Salı_10:30-11:15": false,
+                "Salı_11:30-12:15": false,
+                "Salı_13:00-13:45": false,
+                "Salı_14:00-14:45": false,
+                "Salı_15:00-15:45": false,
+                "Salı_16:00-16:45": false,
+                "Çarşamba_08:30-09:15": false,
+                "Çarşamba_09:30-10:15": false,
+                "Çarşamba_10:30-11:15": false,
+                "Çarşamba_11:30-12:15": false,
+                "Çarşamba_13:00-13:45": false,
+                "Çarşamba_14:00-14:45": false,
+                "Çarşamba_15:00-15:45": false,
+                "Çarşamba_16:00-16:45": false,
+                "Perşembe_08:30-09:15": false,
+                "Perşembe_09:30-10:15": false,
+                "Perşembe_10:30-11:15": false,
+                "Perşembe_11:30-12:15": false,
+                "Perşembe_13:00-13:45": false,
+                "Perşembe_14:00-14:45": false,
+                "Perşembe_15:00-15:45": false,
+                "Perşembe_16:00-16:45": false,
+                "Cuma_08:30-09:15": true,
+                "Cuma_09:30-10:15": true,
+                "Cuma_10:30-11:15": true,
+                "Cuma_11:30-12:15": true,
+                "Cuma_13:00-13:45": true,
+                "Cuma_14:00-14:45": true,
+                "Cuma_15:00-15:45": true,
+                "Cuma_16:00-16:45": true
+            }
+        }
+    ],
+    "dersler": [
+        {
+            "id": "1605101 SOSYAL HİZMETE GİRİŞ",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Ramazan KOCAKAYA"
+            ],
+            "sure": 3,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605103 PSİKOLOJİ",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Fatma Bilge KAHRAMAN"
+            ],
+            "sure": 3,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605105 HUKUKA GİRİŞ",
+            "hocalar": [
+                "Prof. Dr. Ahmet Burhan ÇAKICI"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605106 EKONOMİYE GİRİŞ",
+            "hocalar": [
+                "Dr. Öğr. Ü. Ufuk Serdar AKALIN"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": true,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605107 ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": true,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605108 TÜRK DİLİ I",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": true,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605109 YABANCI DİL I (İNGİLİZCE)",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": true,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605113 TEMEL BİLGİ TEKNOLOJİLERİ KULLANIMI",
+            "hocalar": [
+                "Doç. Dr. Tahir DAĞCI"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": true,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605114 SOSYOLOJİ",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Necati Buğra KUDDAŞ"
+            ],
+            "sure": 3,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605110 İLETİŞİM BECERİLERİ",
+            "hocalar": [
+                "Arş. Gör. Dr. Rabia ERTEN"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605111 SOSYAL HİZMET TARİHİ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605112 SOSYAL ADALET VE EŞİTSİZLİK",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Necati Buğra KUDDAŞ"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605201 SOSYAL HİZMET KURUMLARI VE ALANLARI",
+            "hocalar": [
+                "Prof. Dr. Ahmet Burhan ÇAKICI",
+                "Dr. Öğr. Üyesi Yasemin ARI KOVANCI"
+            ],
+            "sure": 3,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605203 SOSYAL PSİKOLOJİ",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Fatma Bilge KAHRAMAN"
+            ],
+            "sure": 3,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605204 SOSYAL SORUNLAR",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Ramazan KOCAKAYA"
+            ],
+            "sure": 3,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605205 KENTLEŞME VE GÖÇ",
+            "hocalar": [
+                "Doç. Dr. Tahir DAĞCI"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605206 ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": true,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605207 TÜRK DİLİ II",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": true,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605208 YABANCI DİL II ( İNGİLİZCE)",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": true,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605212 TÜRKİYE ` NİN TOPLUMSAL VE EKONOMİK YAPISI",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Necati Buğra KUDDAŞ"
+            ],
+            "sure": 3,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605210 SOSYAL DIŞLANMA VE AYRIMCILIK",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Fatma Bilge KAHRAMAN"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605211 SOSYAL VE KÜLTÜREL ANTROPOLOJİ",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Fatma Bilge KAHRAMAN"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605213 MESLEKİ YABANCI DİL (İNGİLİZCE) I",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Ramazan KOCAKAYA"
+            ],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605303 DEZAVANTAJLI GRUPLAR VE MÜRACAATÇI SİSTEMLERİ",
+            "hocalar": [
+                "Arş. Gör. Dr. Rabia ERTEN"
+            ],
+            "sure": 3,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605307 BİLİMSEL ARAŞTIRMA YÖNTEM VE TEKNİKLERİ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 3,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605315 İNSAN HAKLARI VE SOSYAL HİZMET",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Ramazan KOCAKAYA"
+            ],
+            "sure": 3,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605316 İNSAN DAVRANIŞI VE SOSYAL ÇEVRE I",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Fatma Bilge KAHRAMAN"
+            ],
+            "sure": 3,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605317 SOSYAL POLİTİKA",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Yasemin ARI KOVANCI"
+            ],
+            "sure": 3,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605318 FELSEFE",
+            "hocalar": [
+                "Doç. Dr. Tahir DAĞCI"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605309 TOPLUMSAL CİNSİYET VE SOSYAL HİZMET",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Fatma Bilge KAHRAMAN"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605310 KRİZ VE KRİZE MÜDAHALE",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605312 SOSYAL HİZMET UYGULAMALARINDA KÜLTÜREL FARKLILIKLAR",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": true,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605313 SOSYAL HİZMETTE GÖRÜŞME",
+            "hocalar": [
+                "Arş. Gör. Dr. Rabia ERTEN"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605314 DRAMA",
+            "hocalar": [
+                "Arş. Gör. Dr. Rabia ERTEN"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605319 ELEŞTİREL DÜŞÜNCE",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605320 MESLEKİ YABANCI DİL (İNGİLİZCE) II",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605321 BAĞIMLILIKLAR VE SOSYAL HİZMET",
+            "hocalar": [
+                "Prof. Dr. Ahmet Burhan ÇAKICI"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605402 İNSAN DAVRANIŞI VE SOSYAL ÇEVRE II",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Fatma Bilge KAHRAMAN"
+            ],
+            "sure": 3,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605403 SOSYAL HİZMET MEVZUATI",
+            "hocalar": [
+                "Prof. Dr. Ahmet Burhan ÇAKICI"
+            ],
+            "sure": 3,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605405 SOSYAL HİZMET DEĞERLERİ VE ETİĞİ",
+            "hocalar": [
+                "Doç. Dr. Tahir DAĞCI"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605406 İSTATİSTİK",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605415 SOSYAL HİZMETTE KAYIT TUTMA VE SUNUM BECERİLERİ",
+            "hocalar": [
+                "Arş. Gör. Dr. Rabia ERTEN"
+            ],
+            "sure": 3,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605416 SOSYAL HİZMET KURAMLARI I",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Ramazan KOCAKAYA"
+            ],
+            "sure": 3,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605417 ENGELLİ REFAHI VE SOSYAL HİZMET",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Ramazan KOCAKAYA"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605408 SOKAK SOSYAL HİZMETİ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605411 AFETLERDE SOSYAL HİZMET",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605412 ÇALIŞMA YAŞAMI VE SOSYAL HİZMET",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Fatma Bilge KAHRAMAN"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605413 KIRSAL ALANDA SOSYAL HİZMET",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Necati Buğra KUDDAŞ"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605418 İŞ SAĞLIĞI VE GÜVENLİĞİ",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Fatma Bilge KAHRAMAN"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605419 ADLİ SOSYAL HİZMET",
+            "hocalar": [
+                "Prof. Dr. Ahmet Burhan ÇAKICI"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605420 SOSYAL HİZMETTE TEKNOLOJİ KULLANIMI",
+            "hocalar": [
+                "Doç. Dr. Tahir DAĞCI"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605421 SOSYAL HİZMET LİTERATÜR OKUMALARI I",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Necati Buğra KUDDAŞ"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605501 SOSYAL HİZMET KURAMLARI II",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Ramazan KOCAKAYA"
+            ],
+            "sure": 3,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605502 SOSYAL HİZMET MÜDAHALESİ VE UYGULAMASI I Teorik",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Necati Buğra KUDDAŞ"
+            ],
+            "sure": 4,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": true,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605503 BİREYLERLE SOSYAL HİZMET",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Ramazan KOCAKAYA"
+            ],
+            "sure": 3,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605504 ÇOCUK VE GENÇLİK REFAHI VE SOSYAL HİZMET",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 3,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605505 TIBBİ SOSYAL HİZMET",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Necati Buğra KUDDAŞ"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605506 MANEVİ SOSYAL HİZMET",
+            "hocalar": [
+                "Doç. Dr. Tahir DAĞCI"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605507 ŞİDDET VE SOSYAL HİZMET",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605508 PROJE TASARIMI VE YÖNETİMİ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": true,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605509 SOSYAL HİZMET LİTERATÜR OKUMALARI II",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605510 GÖÇ, SIĞINMACILIK, MÜLTECİLİK VE SOSYAL HİZMET",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Fatma Bilge KAHRAMAN"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605511 AİLE HUKUKU",
+            "hocalar": [
+                "Prof. Dr. Ahmet Burhan ÇAKICI"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605512 PSİKOPATOLOJİ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605601 SOSYAL HİZMET MÜDAHALESİ VE UYGULAMASI II Teorik",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Necati Buğra KUDDAŞ"
+            ],
+            "sure": 4,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": true,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605612 SİVİL TOPLUM KURULUŞLARI VE SOSYAL HİZMET",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 3,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605613 İŞ VE SOSYAL GÜVENLİK SİSTEMLERİ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 3,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605614 SOSYAL HİZMET ARAŞTIRMA UYGULAMASI I",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 5,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": true,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605606 ULUSLARARASI SOSYAL HİZMET",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605607 OKUL SOSYAL HİZMETİ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605608 SANAT VE SOSYAL HİZMET",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605610 KADIN REFAHI VE SOSYAL HİZMET",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605611 SOSYAL HİZMET LİTERATÜR OKUMALARI III",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605615 YOKSULLUK VE SOSYAL HİZMET",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605616 YAŞLI REFAHI VE SOSYAL HİZMET",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605711 SOSYAL HİZMET ARAŞTIRMA UYGULAMASI II",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 6,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": true,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605712 GRUP VE AİLELERLE SOSYAL HİZMET",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 8,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605713 TOPLUMLA SOSYAL HİZMET",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 8,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605705 YEREL YÖNETİMLERDE SOSYAL HİZMET",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605706 SİYASET BİLGİSİ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605707 PSİKİYATRİK SOSYAL HİZMET",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605708 SOSYAL HİZMET LİTERATÜR OKUMALARI IV",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605709 GÜNCEL SOSYAL HİZMET TARTIŞMALARI",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605710 AİLE DANIŞMANLIĞI",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605714 SOSYAL HİZMET YÖNETİMİ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605802 SOSYAL HİZMET BLOK UYGULAMA",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 34,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": true,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605803 SOSYAL SORUMLULUK PROJESİ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 4,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": true,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605101 SOSYAL HİZMETE GİRİŞ",
+            "hocalar": [],
+            "sure": 3,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605102 FELSEFE",
+            "hocalar": [],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605103 PSİKOLOJİ",
+            "hocalar": [],
+            "sure": 3,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605104 SOSYOLOJİ",
+            "hocalar": [],
+            "sure": 3,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605105 HUKUKA GİRİŞ",
+            "hocalar": [],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605106 EKONOMİYE GİRİŞ",
+            "hocalar": [],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605107 ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
+            "hocalar": [],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605108 TÜRK DİLİ I",
+            "hocalar": [],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605109 YABANCI DİL I (İNGİLİZCE)",
+            "hocalar": [],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605110 İLETİŞİM BECERİLERİ",
+            "hocalar": [],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605111 SOSYAL HİZMET TARİHİ",
+            "hocalar": [],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605112 SOSYAL ADALET VE EŞİTSİZLİK",
+            "hocalar": [],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605201 SOSYAL HİZMET KURUMLARI VE ALANLARI",
+            "hocalar": [],
+            "sure": 3,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605202 TÜRKİYE'NİN TOPLUMSAL VE EKONOMİK YAPISI",
+            "hocalar": [],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605203 SOSYAL PSİKOLOJİ",
+            "hocalar": [],
+            "sure": 3,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605204 SOSYAL SORUNLAR",
+            "hocalar": [],
+            "sure": 3,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605205 KENTLEŞME VE GÖÇ",
+            "hocalar": [],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605206 ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
+            "hocalar": [],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605207 TÜRK DİLİ II",
+            "hocalar": [],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605208 YABANCI DİL II ( İNGİLİZCE)",
+            "hocalar": [],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605209 MESLEKİ YABANCI DİL I",
+            "hocalar": [],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605210 SOSYAL DIŞLANMA VE AYRIMCILIK",
+            "hocalar": [],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605211 SOSYAL VE KÜLTÜREL ANTROPOLOJİ",
+            "hocalar": [],
+            "sure": 2,
+            "sinif_yil": "1. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605301 İNSAN HAKLARI VE SOSYAL HİZMET",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Ramazan KOCAKAYA"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605302 İNSAN DAVRANIŞI VE SOSYAL ÇEVRE I",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Fatma Bilge KAHRAMAN"
+            ],
+            "sure": 3,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605303 DEZAVANTAJLI GRUPLAR VE MÜRACAATÇI SİSTEMLERİ",
+            "hocalar": [
+                "Arş. Gör. Dr. Rabia ERTEN"
+            ],
+            "sure": 3,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605304 SOSYAL POLİTİKA",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Yasemin ARI KOVANCI"
+            ],
+            "sure": 3,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605305 BAĞIMLILIKLAR VE SOSYAL HİZMET",
+            "hocalar": [
+                "Prof. Dr. Ahmet Burhan ÇAKICI"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605306 TEMEL BİLGİ TEKNOLOJİLERİ KULLANIMI",
+            "hocalar": [
+                "Doç. Dr. Tahir DAĞCI"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605307 BİLİMSEL ARAŞTIRMA YÖNTEM VE TEKNİKLERİ",
+            "hocalar": [
+                "Doç. Dr. Erhan ŞENSOY"
+            ],
+            "sure": 3,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605308 ELEŞTİREL DÜŞÜNCE I",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605309 TOPLUMSAL CİNSİYET VE SOSYAL HİZMET",
+            "hocalar": [
+                "Arş. Gör. Dr. Rabia ERTEN"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605310 KRİZ VE KRİZE MÜDAHALE",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605311 MESLEKİ YABANCI DİL II",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605312 SOSYAL HİZMET UYGULAMALARINDA KÜLTÜREL FARKLILIKLAR",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": true,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605313 SOSYAL HİZMETTE GÖRÜŞME",
+            "hocalar": [
+                "Arş. Gör. Dr. Rabia ERTEN"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605314 DRAMA",
+            "hocalar": [
+                "Arş. Gör. Dr. Rabia ERTEN"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605401 SOSYAL HİZMETTE KAYIT TUTMA, RAPOR YAZMA VE SUNUM BECERİLERİ",
+            "hocalar": [
+                "Arş. Gör. Dr. Rabia ERTEN"
+            ],
+            "sure": 3,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605402 İNSAN DAVRANIŞI VE SOSYAL ÇEVRE II",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Fatma Bilge KAHRAMAN"
+            ],
+            "sure": 3,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605403 SOSYAL HİZMET MEVZUATI",
+            "hocalar": [
+                "Prof. Dr. Ahmet Burhan ÇAKICI"
+            ],
+            "sure": 3,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605404 SOSYAL HİZMET KURAMLARI I",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Ramazan KOCAKAYA"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605405 SOSYAL HİZMET DEĞERLERİ VE ETİĞİ",
+            "hocalar": [
+                "Doç. Dr. Tahir DAĞCI"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605406 İSTATİSTİK",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605407 ADLİ SOSYAL HİZMET",
+            "hocalar": [
+                "Prof. Dr. Ahmet Burhan ÇAKICI"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605408 SOKAK SOSYAL HİZMETİ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Yaz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605409 ELEŞTİREL DÜŞÜNCE II",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605410 İŞ VE SOSYAL GÜVENLİK SİSTEMLERİ",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Fatma Bilge KAHRAMAN"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605411 AFETLERDE SOSYAL HİZMET",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605412 ÇALIŞMA YAŞAMI VE SOSYAL HİZMET",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605413 KIRSAL ALANDA SOSYAL HİZMET",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Necati Buğra KUDDAŞ"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605414 SOSYAL HİZMET LİTERATÜR OKUMALARI",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "2. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605501 SOSYAL HİZMET KURAMLARI II",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Ramazan KOCAKAYA"
+            ],
+            "sure": 3,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605502 SOSYAL HİZMET MÜDAHALESİ VE UYGULAMASI I Teorik",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Necati Buğra KUDDAŞ"
+            ],
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": true,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)",
+            "sure": 4
+        },
+        {
+            "id": "1605503 BİREYLERLE SOSYAL HİZMET",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Ramazan KOCAKAYA"
+            ],
+            "sure": 3,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605504 ÇOCUK VE GENÇLİK REFAHI VE SOSYAL HİZMET",
+            "hocalar": [
+                "Dr. Zehra Tortop KUDDAŞ"
+            ],
+            "sure": 3,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605505 TIBBİ SOSYAL HİZMET",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Necati Buğra KUDDAŞ"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605506 MANEVİ SOSYAL HİZMET",
+            "hocalar": [
+                "Doç. Dr. Tahir DAĞCI"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605507 ŞİDDET VE SOSYAL HİZMET",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605508 PROJE TASARIMI VE YÖNETİMİ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": true,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605509 SOSYAL HİZMET LİTERATÜR OKUMALARI II",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605510 GÖÇ, SIĞINMACILIK, MÜLTECİLİK VE SOSYAL HİZMET",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Fatma Bilge KAHRAMAN"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605511 AİLE HUKUKU",
+            "hocalar": [
+                "Prof. Dr. Ahmet Burhan ÇAKICI"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605512 PSİKOPATOLOJİ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605601 SOSYAL HİZMET MÜDAHALESİ VE UYGULAMASI II Teorik",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Necati Buğra KUDDAŞ"
+            ],
+            "sure": 4,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": true,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605602 YOKSULLUK VE SOSYAL HİZMET",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 3,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605603 YAŞLI REFAHI VE SOSYAL HİZMET",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605604 ENGELLİ REFAHI VE SOSYAL HİZMET",
+            "hocalar": [
+                "Dr. Öğr. Üyesi Ramazan KOCAKAYA"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605605 SOSYAL SORUMLULUK PROJESİ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": true,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605606 ULUSLARARASI SOSYAL HİZMET",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605607 OKUL SOSYAL HİZMETİ",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605608 SANAT VE SOSYAL HİZMET",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605609 SİVİL TOPLUM KURULUŞLARI VE SOSYAL HİZMET",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605610 KADIN REFAHI VE SOSYAL HİZMET",
+            "hocalar": [
+                "Arş. Gör. Dr. Rabia ERTEN"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605611 SOSYAL HİZMET LİTERATÜR OKUMALARI III",
+            "hocalar": [
+                "Atanmadı"
+            ],
+            "sure": 2,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605701 SOSYAL HİZMET ARAŞTIRMA UYGULAMASI I",
+            "hocalar": [
+                "Prof. Dr. Ahmet Burhan ÇAKICI",
+                "Doç. Dr. Tahir DAĞCI",
+                "Dr. Öğr. Üyesi Necati Buğra KUDDAŞ",
+                "Dr. Öğr. Üyesi Fatma Bilge KAHRAMAN",
+                "Dr. Öğr. Üyesi Ramazan KOCAKAYA",
+                "Dr. Öğr. Üyesi Yasemin ARI KOVANCI",
+                "Arş. Gör. Dr. Rabia ERTEN"
+            ],
+            "sure": 4,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": true,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605702 GRUP VE AİLELERLE SOSYAL HİZMET",
+            "hocalar": [],
+            "sure": 6,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605703 TOPLUMLA SOSYAL HİZMET",
+            "hocalar": [],
+            "sure": 8,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605704 SOSYAL HİZMET YÖNETİMİ",
+            "hocalar": [],
+            "sure": 2,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605705 YEREL YÖNETİMLERDE SOSYAL HİZMET",
+            "hocalar": [],
+            "sure": 2,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605706 SİYASET BİLGİSİ",
+            "hocalar": [],
+            "sure": 2,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605707 PSİKİYATRİK SOSYAL HİZMET",
+            "hocalar": [],
+            "sure": 2,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605708 SOSYAL HİZMET LİTERATÜR OKUMALARI IV",
+            "hocalar": [],
+            "sure": 2,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605709 GÜNCEL SOSYAL HİZMET TARTIŞMALARI",
+            "hocalar": [],
+            "sure": 2,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605710 AİLE DANIŞMANLIĞI",
+            "hocalar": [],
+            "sure": 2,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": false,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605801 SOSYAL HİZMET ARAŞTIRMA UYGULAMASI II",
+            "hocalar": [],
+            "sure": 6,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": true,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605802 SOSYAL HİZMET BLOK UYGULAMA",
+            "hocalar": [],
+            "sure": 34,
+            "sinif_yil": "4. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": true,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605502 SOSYAL HİZMET MÜDAHALESİ VE UYGULAMASI I Uygulama",
+            "hocalar": [
+                "Prof. Dr. Ahmet Burhan ÇAKICI",
+                "Doç. Dr. Tahir DAĞCI",
+                "Dr. Öğr. Üyesi Necati Buğra KUDDAŞ",
+                "Dr. Öğr. Üyesi Fatma Bilge KAHRAMAN",
+                "Dr. Öğr. Üyesi Ramazan KOCAKAYA",
+                "Arş. Gör. Dr. Rabia ERTEN"
+            ],
+            "sure": 4,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2026",
+            "donem": "Güz",
+            "derslik_gerekmez": true,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "SOSYAL HİZMET MÜDAHALESİ VE UYGULAMASI II Uygulama",
+            "hocalar": [
+                "Prof. Dr. Ahmet Burhan ÇAKICI",
+                "Doç. Dr. Tahir DAĞCI",
+                "Dr. Öğr. Üyesi Necati Buğra KUDDAŞ",
+                "Dr. Öğr. Üyesi Fatma Bilge KAHRAMAN",
+                "Dr. Öğr. Üyesi Ramazan KOCAKAYA",
+                "Dr. Öğr. Üyesi Yasemin ARI KOVANCI",
+                "Arş. Gör. Dr. Rabia ERTEN"
+            ],
+            "sure": 4,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2026",
+            "donem": "Bahar",
+            "derslik_gerekmez": true,
+            "lab_gerekir": false,
+            "aktif_mi": false,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605601 SOSYAL HİZMET MÜDAHALESİ VE UYGULAMASI II Uygulama",
+            "hocalar": [
+                "Prof. Dr. Ahmet Burhan ÇAKICI",
+                "Doç. Dr. Tahir DAĞCI",
+                "Dr. Öğr. Üyesi Necati Buğra KUDDAŞ",
+                "Dr. Öğr. Üyesi Fatma Bilge KAHRAMAN",
+                "Dr. Öğr. Üyesi Ramazan KOCAKAYA",
+                "Dr. Öğr. Üyesi Yasemin ARI KOVANCI",
+                "Arş. Gör. Dr. Rabia ERTEN"
+            ],
+            "sure": 4,
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Bahar",
+            "derslik_gerekmez": true,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "(Esnek / Serbest)",
+            "sabit_saat": "(Esnek / Serbest)"
+        },
+        {
+            "id": "1605502 SOSYAL HİZMET MÜDAHALESİ VE UYGULAMASI I Uygulama",
+            "hocalar": [
+                "Prof. Dr. Ahmet Burhan ÇAKICI",
+                "Doç. Dr. Tahir DAĞCI",
+                "Dr. Öğr. Üyesi Necati Buğra KUDDAŞ",
+                "Dr. Öğr. Üyesi Fatma Bilge KAHRAMAN",
+                "Dr. Öğr. Üyesi Ramazan KOCAKAYA",
+                "Arş. Gör. Dr. Rabia ERTEN"
+            ],
+            "sinif_yil": "3. Sınıf",
+            "mufredat": "2024",
+            "donem": "Güz",
+            "derslik_gerekmez": true,
+            "lab_gerekir": false,
+            "aktif_mi": true,
+            "sabit_gun": "Salı",
+            "sabit_saat": "08:30-09:15",
+            "sure": 4
+        }
+    ]
+}
